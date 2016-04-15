@@ -1,4 +1,4 @@
-package tests;
+package com.example.hadarabukrat.testproject.tests;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.widget.TextView;
@@ -22,12 +22,3 @@ public class JUnit_test extends ActivityInstrumentationTestCase2<MainActivity>{
         assertEquals("Bye World", tester);
     }
 }
-
-
-
-
-
-
-
-
-
